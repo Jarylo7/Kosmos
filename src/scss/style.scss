@@ -1,0 +1,54 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	background-color: 404040;
+	font-size: 16px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+	height: 100%;
+}
+
+.content {
+  display: inline-block;//table-row;
+}
+
+.footer {
+  display: inline-block;
+  background-color: #000000;
+  text-align: center;
+  width: 100%;
+}
+
+.he {
+  display: inline;
+  height: 1px;
+}
+
+h1 {
+	position	: absolute;
+	top		: 50px;
+	left		: 0;
+	width		: 100%;
+	color: 80ffC0;
+}
+
+.image {
+	position	: relative;
+	width		: 100%; /* for IE 6 */
+    height: 183px;
+    height: 183px;
+}
+
+p {
+    color: ffffff;
+}
+
+ul{
+	color: c0c0c0;
+}
+
+.wrapper {
+  min-height: 100%;
+  display: table;
+}

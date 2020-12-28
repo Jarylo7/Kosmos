@@ -1,0 +1,11 @@
+.img2 {
+  margin-top: 0px;
+  margin-left: 50px;
+  float: left;
+  width: 600;
+  height: 426;
+}
+
+.block {
+  display: inline-block;
+}
